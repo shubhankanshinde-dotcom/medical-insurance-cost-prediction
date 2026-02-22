@@ -38,9 +38,9 @@ The dataset includes 1338 records with both numerical and categorical features l
 ---
 
 ### How to run
-1. Open `insurance_cost_prediction.ipynb`
-2. Install required libraries
-3. Run all cells
+1. Open insurance_cost_prediction.ipynb
+2. Install required libraries if needed
+3. Run all cells to reproduce the analysis and model results
 
 ---
 
