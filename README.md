@@ -49,7 +49,7 @@ Completed in 2024 as part of Introduction to Machine Learning coursework.
 
 ## Visual Insights
 
-### Pairplot (Smoker vs Non-Smoker)
+### Pairplot (pairplot)
 ![Pairplot](images/pairplot.png)
 
 ### Smoker vs Charges
