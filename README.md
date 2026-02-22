@@ -49,14 +49,14 @@ Completed in 2024 as part of Introduction to Machine Learning coursework.
 
 ## Visual Insights
 
-**Pairplot (Smoker vs Non-Smoker)**
-![Pairplot](images/pairplot_smoker.png)
+### Pairplot (Smoker vs Non-Smoker)
+![Pairplot](images/pairplot.png)
 
-**Smoker vs Charges**
-![Smoker vs Charges](images/smoker_vs_charges.png)
+### Smoker vs Charges
+![Smoker vs Charges](images/boxplot_smoker_vs_charges.png)
 
-**Distribution of Age**
-![Distribution of Age](images/age_distribution.png)
+### Distribution of Age
+![Distribution of Age](images/histogram.png)
 
-**Correlation Heatmap**
-![Correlation Heatmap](images/correlation_heatmap.png)
+### Correlation Heatmap
+![Correlation Heatmap](images/heatmap.png)
