@@ -46,3 +46,17 @@ The dataset includes 1338 records with both numerical and categorical features l
 
 ### Timeline
 Completed in 2024 as part of Introduction to Machine Learning coursework.
+
+## Visual Insights
+
+**Pairplot (Smoker vs Non-Smoker)**
+![Pairplot](images/pairplot_smoker.png)
+
+**Smoker vs Charges**
+![Smoker vs Charges](images/smoker_vs_charges.png)
+
+**Distribution of Age**
+![Distribution of Age](images/age_distribution.png)
+
+**Correlation Heatmap**
+![Correlation Heatmap](images/correlation_heatmap.png)
